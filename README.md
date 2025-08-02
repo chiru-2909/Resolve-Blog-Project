@@ -1,2 +1,3 @@
 # Resolve-Blog-
-My First Project  Repo !!
+Resolve Blog -> My Project
+
